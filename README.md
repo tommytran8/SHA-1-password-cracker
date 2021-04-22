@@ -1,5 +1,5 @@
-# SHA-1-password-cracker
- a freecodecamp project
+# SHA-1-password-cracker 
+    A freecodecamp project
 
 ### Assignment
 
